@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Functional Test suite 1 by Sooraj" verbose="2">
+
+
+    <listeners>
+        <listener class-name="main.java.TestListener"/>
+    </listeners>
+
+    <test name="Basic Test " >
+
+        <classes>
+            <class name="test.java.Module_01.FirstTestCase" />
+        </classes>
+
+    </test>
+</suite>

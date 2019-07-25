@@ -1,0 +1,8 @@
+browser=chrome
+url=http://automationpractice.com/index.php
+ChromeDriverKey=webdriver.chrome.driver
+ChromeDriverPath=D:\\selenium\\chromedriver.exe
+IEdriverkey=webdriver.ie.driver
+IEdriverpath=D:\\selenium\\IEDriverServer.exe
+ScreenShotFolder=D:\\selenium\\ScreenShot
+ExtentReportPath=D:\selenium\Extent Reports
